@@ -1,4 +1,4 @@
-package com.wiki.demo.controller;
+package com.jiawa.wiki.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
